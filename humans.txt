@@ -1,0 +1,20 @@
+/* TEAM */
+Company: Tech Nexus LTD
+Site: https://nexusbd.tech
+Location: Dhaka, Bangladesh
+Contact: info@nexusbd.tech
+Phone: +8801516599976
+
+/* SITE */
+Last update: 2025/11/25
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Responsive Design, Progressive Web App
+Software: Custom Built
+Language: English
+Doctype: HTML5
+IDE: Modern Web Development Tools
+
+/* THANKS */
+To all our clients who trust us with their digital solutions
+To the open-source community for amazing tools and libraries
+To our team for their dedication and hard work

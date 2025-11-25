@@ -1,0 +1,27 @@
+{
+  "name": "Tech Nexus LTD - Software & Digital Solutions",
+  "short_name": "Tech Nexus",
+  "description": "Tech Nexus LTD builds high-performing websites, mobile apps, and SaaS platforms. Expert web development, mobile app development, and digital marketing services in Dhaka, Bangladesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
