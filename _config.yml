@@ -12,8 +12,13 @@ exclude:
   - QUICK-REFERENCE.md
   - FINAL-SUMMARY.md
   - START-HERE.md
+  - GITHUB-PAGES-SETUP.md
+  - GITHUB-DEPLOYMENT-SUMMARY.md
+  - DEPLOY-NOW.md
+  - IMPLEMENTATION-COMPLETE.txt
   - CNAME.txt
   - google-site-verification.html
+  - "*.md"
   - .vscode/
   - .git/
   - .gitignore
