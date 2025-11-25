@@ -1,0 +1,43 @@
+# GitHub Pages Configuration for Tech Nexus LTD
+
+# Exclude files from being published
+exclude:
+  - README.md
+  - SEO-GUIDE.md
+  - DEPLOYMENT-CHECKLIST.md
+  - SEO-IMPLEMENTATION-SUMMARY.md
+  - SECURITY-IMPLEMENTATION.md
+  - SECURITY-NOTES.md
+  - ACCESS-CONTROL-TEST.md
+  - QUICK-REFERENCE.md
+  - FINAL-SUMMARY.md
+  - START-HERE.md
+  - CNAME.txt
+  - google-site-verification.html
+  - .vscode/
+  - .git/
+  - .gitignore
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - composer.json
+  - composer.lock
+
+# Include files that should be accessible
+include:
+  - robots.txt
+  - sitemap.xml
+  - humans.txt
+  - manifest.json
+  - security.txt
+  - .well-known
+
+# Site settings
+title: Tech Nexus LTD
+description: Software & Digital Solutions - Web Development, Mobile Apps, Digital Marketing
+url: https://nexusbd.tech
+baseurl: ""
+
+# Build settings
+markdown: kramdown
